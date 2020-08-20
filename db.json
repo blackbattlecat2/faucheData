@@ -1,0 +1,39 @@
+{
+  "header": {
+    "logo": "https://www.mediprads.com/img/default-logo.jpg",
+    "companyName": "Fauche company",
+    "phoneNumber": "+375 (29) 123-45-67",
+    "links": [
+      {
+        "link": "#",
+        "text": "Home"
+      },
+      {
+        "link": "#",
+        "text": "About Us"
+      },
+      {
+        "link": "#",
+        "text": "Store"
+      }
+    ],
+    "bgImg": "https://www.mskhanelectrician.com/images/banner2.jpg"
+  },
+  "main": {
+    "heading": "How it works",
+    "steps": [
+      {
+        "heading": "Create a request",
+        "description": "by answering several short questions and choosing the date when you would like to have a service provided."
+      },
+      {
+        "heading": "Confirm your order",
+        "description": "with the customer service using prefectable contact method."
+      },
+      {
+        "heading": "Pay automatically",
+        "description": "with no prepay after the service is completed."
+      }
+    ]
+  }
+}
