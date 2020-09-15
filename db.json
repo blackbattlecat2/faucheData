@@ -5,7 +5,7 @@
     "phoneNumber": "+375 (29) 123-45-67",
     "links": [
       {
-        "href": "/home",
+        "href": "/",
         "text": "Home"
       },
       {
@@ -16,10 +16,10 @@
         "href": "/store",
         "text": "Store"
       }
-    ],
-    "bgImg": "https://www.mskhanelectrician.com/images/banner2.jpg"
+    ]
   },
   "main": {
+    "bgImg": "https://www.mskhanelectrician.com/images/banner2.jpg",
     "heading": "How it works",
     "steps": [
       {
