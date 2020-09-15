@@ -5,15 +5,15 @@
     "phoneNumber": "+375 (29) 123-45-67",
     "links": [
       {
-        "link": "#",
+        "link": "/home",
         "text": "Home"
       },
       {
-        "link": "#",
+        "link": "/about",
         "text": "About Us"
       },
       {
-        "link": "#",
+        "link": "/store",
         "text": "Store"
       }
     ],
